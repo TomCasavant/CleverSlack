@@ -1,3 +1,4 @@
-.ini
-.out
+*.ini
+*.out
+.mai.swp
 
