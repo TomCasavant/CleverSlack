@@ -1,0 +1,17 @@
+appdirs==1.4.3
+backports.ssl-match-hostname==3.5.0.1
+cleverwrap==0.2.3.2
+future==0.16.0
+jsondatabase==0.1.7
+nltk==3.2.2
+oauthlib==2.0.2
+packaging==16.8
+pkg-resources==0.0.0
+pymongo==3.4.0
+pyparsing==2.2.0
+python-twitter==3.2.1
+requests==2.13.0
+requests-oauthlib==0.8.0
+six==1.10.0
+slackclient==1.0.5
+websocket-client==0.40.0
